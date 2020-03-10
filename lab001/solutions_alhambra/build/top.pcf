@@ -1,0 +1,2 @@
+set_io user_led 45
+set_io clk12 49
